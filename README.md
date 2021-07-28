@@ -1,5 +1,8 @@
 # European-cave-spider-traits
-Scripts for the data paper by Mammola et al., 2021
+
+Scripts for the analysis in the study:
+
+Mammola S, Pavlek P, Huber BA, Isaia M, Ballarin F,  Tolve M, Čupić I, Hesselberg T, Lunghi E, Mouron S, Graco Roza C, & Cardoso P. 2021. A trait database and updated checklist for European subterranean spiders. Scientific Data, submitted
 
 The script is annotated throughout for easy interpretation. 
 
