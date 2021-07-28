@@ -1,6 +1,6 @@
 ---
 title: "Spider traits"
-author: "Caio Graco-Roza"
+author: "Stefano Mammola (paper author); Caio Graco-Roza (Code author)"
 date: "3/22/2021"
 output:
   pdf_document: default
@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE,
 
 pacman::p_load(tidyverse, gawdis,ggpointdensity,patchwork,readxl, ggtext, ggnewscale,summarytools, ggdist, formatR)
 
-data  <- read_excel("DATABASE_CAVE_TRAITS.xlsx", na = "NA")
+data  <- read_excel("Database_Mammola_et_al_2021_Figshare.xlsx", na = "NA")
 
 ```
 
