@@ -2,7 +2,7 @@
 
 Scripts for the analysis in the study:
 
-Mammola S, Pavlek P, Huber BA, Isaia M, Ballarin F,  Tolve M, Čupić I, Hesselberg T, Lunghi E, Mouron S, Graco-Roza C, & Cardoso P. 2021. A trait database and updated checklist for European subterranean spiders. Scientific Data, submitted
+Mammola S, Pavlek P, Huber BA, Isaia M, Ballarin F,  Tolve M, Čupić I, Hesselberg T, Lunghi E, Mouron S, Graco-Roza C, & Cardoso P. 2022. A trait database and updated checklist for European subterranean spiders. Scientific Data, in press
 
 The script is annotated throughout for easy interpretation. 
 
